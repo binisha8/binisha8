@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 🎓 Aspiring Database Engineer  
-🛠️ Skills: SQL, Power BI, Python, Excel  
+🛠️ Skills:C,C++,SQL, Power BI, Python, PySpark
 📊 Passionate about data analytics and building efficient data pipelines  
 🌱 Currently learning: ETL with SQL & Data Warehousing  
 
