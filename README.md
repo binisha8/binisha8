@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+🎓 Aspiring Database Engineer  
+🛠️ Skills: SQL, Power BI, Python, Excel  
+📊 Passionate about data analytics and building efficient data pipelines  
+🌱 Currently learning: ETL with SQL & Data Warehousing  
+
+
 <!--
 **binisha8/binisha8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
